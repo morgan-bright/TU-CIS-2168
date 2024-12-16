@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/CircularLinkedList.iml" filepath="$PROJECT_DIR$/CircularLinkedList.iml" />
-=======
       <module fileurl="file://$PROJECT_DIR$/Module 1 Assignment.iml" filepath="$PROJECT_DIR$/Module 1 Assignment.iml" />
->>>>>>> 66dc976e0f23f32263114d0b829e6395f90af91c
     </modules>
   </component>
 </project>
