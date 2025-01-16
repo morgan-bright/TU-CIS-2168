@@ -2,7 +2,31 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Sorting Algo.iml" filepath="$PROJECT_DIR$/Sorting Algo.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/cheatingComputers.iml" filepath="$PROJECT_DIR$/cheatingComputers.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Indexing Text.iml" filepath="$PROJECT_DIR$/Indexing Text.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Knights.iml" filepath="$PROJECT_DIR$/Knights.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/Maze.iml" filepath="$PROJECT_DIR$/Maze.iml" />
+=======
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/CircularLinkedList.iml" filepath="$PROJECT_DIR$/CircularLinkedList.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Module 1 Assignment.iml" filepath="$PROJECT_DIR$/Module 1 Assignment.iml" />
+>>>>>>> 66dc976e0f23f32263114d0b829e6395f90af91c
+>>>>>>> 0bafb96d8c2d64a163e95fda3e48d2517a9ece83
+>>>>>>> 76d0aa3ba14908dc7c0eb918cbcfa8513de7d980
+>>>>>>> 9c35334999adeb36cb9d9c711e0836732eb55c7a
+>>>>>>> 5d1701dfddbf36bcd4e3c9f5ac3f5bda739b009a
+>>>>>>> b4475a01887d7ccc90aacdf47d8b9afaeb51e5f1
     </modules>
   </component>
 </project>
