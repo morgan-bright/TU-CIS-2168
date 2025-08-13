@@ -28,21 +28,23 @@ A group of soldiers stand in a circle. Starting at a specific point, you count o
   4. Continue until only two soldiers remain.
 
 ## Example Run
-  Enter Number of Soldiers
-  7
-  Enter Number of Counts
-  3
-  Soldier 3 was eliminated.
-  1 ==> 2 ==> 4 ==> 5 ==> 6 ==> 7
-  Soldier 6 was eliminated.
-  1 ==> 2 ==> 4 ==> 5 ==> 7
-  Soldier 2 was eliminated.
-  1 ==> 4 ==> 5 ==> 7
-  Soldier 7 was eliminated.
-  1 ==> 4 ==> 5
-  Soldier 5 was eliminated.
-  1 ==> 4
-  The soldiers that survived: 1 ==> 4
+```
+Enter Number of Soldiers
+7
+Enter Number of Counts
+3
+Soldier 3 was eliminated.
+1 ==> 2 ==> 4 ==> 5 ==> 6 ==> 7
+Soldier 6 was eliminated.
+1 ==> 2 ==> 4 ==> 5 ==> 7
+Soldier 2 was eliminated.
+1 ==> 4 ==> 5 ==> 7
+Soldier 7 was eliminated.
+1 ==> 4 ==> 5
+Soldier 5 was eliminated.
+1 ==> 4
+The soldiers that survived: 1 ==> 4
+```
 
 ## Requirements
 - Java 8 or newer
@@ -52,5 +54,8 @@ A group of soldiers stand in a circle. Starting at a specific point, you count o
 2. Compile:
    ```bash
    javac circularlinkedlist/CircularLinkedList.java
+   ```
 3. Run:
-  java circularlinkedlist.CircularLinkedList
+   ```bash
+   java circularlinkedlist.CircularLinkedList
+   ```
